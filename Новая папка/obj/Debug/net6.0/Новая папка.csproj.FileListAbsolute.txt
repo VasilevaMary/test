@@ -1,0 +1,15 @@
+/Users/mariavasileva/Desktop/Новая папка/bin/Debug/net6.0/Новая папка
+/Users/mariavasileva/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.deps.json
+/Users/mariavasileva/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.runtimeconfig.json
+/Users/mariavasileva/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.dll
+/Users/mariavasileva/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.pdb
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.csproj.AssemblyReference.cache
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.AssemblyInfoInputs.cache
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.AssemblyInfo.cs
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.csproj.CoreCompileInputs.cache
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.dll
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/refint/Новая папка.dll
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.pdb
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.genruntimeconfig.cache
+/Users/mariavasileva/Desktop/Новая папка/obj/Debug/net6.0/ref/Новая папка.dll
